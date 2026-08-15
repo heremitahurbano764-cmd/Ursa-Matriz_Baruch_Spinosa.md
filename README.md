@@ -1,4 +1,4 @@
-# URSA MATRIX — Architecture for System Security & Preservation
+# URSA MATRIZ — Architecture for System Security & Preservation
 
 **Author & Tech Synthesizer (CTS):** Antônio Carlos Cenez de Morais  
 **Professional Contact:** heremitahurbanoh764@gmail.com  
