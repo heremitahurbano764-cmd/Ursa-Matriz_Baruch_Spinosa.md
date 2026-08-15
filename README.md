@@ -1,4 +1,4 @@
-# URSA MATRIZ — Architecture for System Security & Preservation
+# URSA MATRIZ IA' — Architecture for System Security & Preservation
 
 **Author & Tech Synthesizer (CTS):** Antônio Carlos Cenez de Morais  
 **Professional Contact:** heremitahurbanoh764@gmail.com  
@@ -12,7 +12,7 @@
 ---
 
 ## Executive Overview
-**Ursa Matrix** is a conceptual and technical framework designed for systemic data preservation, integrated safety, and ethical decision-making. The project unifies historical philosophy with modern algorithmic architecture.
+**Ursa Matriz IA'** is a conceptual and technical framework designed for systemic data preservation, integrated safety, and ethical decision-making. The project unifies historical philosophy with modern algorithmic architecture.
 
 ### Core Pillars
 * **Conatus (Baruch Spinoza):** The fundamental principle of self-preservation and system continuity.
@@ -26,7 +26,7 @@
 ---
 
 ## Licensing, Research & Partnerships
-This repository serves as the official public record of conceptual ownership for the **Ursa Matrix** framework.
+This repository serves as the official public record of conceptual ownership for the **Ursa Matriz IA** framework.
 
 The author is available for:
 1. Academic and scientific research collaborations.
