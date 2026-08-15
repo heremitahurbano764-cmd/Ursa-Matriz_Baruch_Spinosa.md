@@ -1,7 +1,7 @@
 # URSA MATRIZ IA' — Architecture for System Security & Preservation
 
 **Author & Tech Synthesizer (CTS):** Antônio Carlos Cenez de Morais  
-**Professional Contact:** heremitahurbanoh764@gmail.com  
+**Professional Contact:** heremitahurbano764@gmail.com  
 **GitHub Profile:** urbano764-CMD  
 
 ---
